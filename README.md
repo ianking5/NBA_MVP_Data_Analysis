@@ -14,7 +14,7 @@ A basic summary and overview of how I conducted this analysis was pretty standar
 - Separating years into eras (1980-1990, 1990-2000, 2000-2010, 2010-2020, 2020-Present) made it easier to analyze temporal trends in time and compare different decades
 - Seeing that the game has evolved into more of a 'shooting' league, where other stats such as blocks and rebounds have become less inportant in MVP Voting
 - The eras 1980-90 and 2020-Present have the most dense data distributions, indicating statistics were similar and competition was greater
-- The eras 1990-2000, 2000-10, and 2010-20 did not have as dense data distributions and were more strung out, indicating less similar statistics and a more obvious MVP
+- The eras 1990-2000, 2000-10, and 2010-20 did not have as dense data distributions and were more strung out, indicating less similar statistics and a more obvious MVP in those seasons
 
 Conclusion and Prediciton:
 Completing this project was an amazing, rewarding feeling and it felt like I finally got my foot through the door. Seeing the power that data holds and how much one can do with it was so cool, and I am very glad I chose a fun dataset I liked as my first analysis. I definitely want to continue down this path and take on more complex and challenging problems and datasets, really testing my capacity and what I can do best when working with numbers. This has also prompted me to probably concentrate in Quantitative Analysis and minor in Computer Science, which I am taking classes for right now. 
